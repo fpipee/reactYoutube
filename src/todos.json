@@ -1,23 +1,22 @@
 {
-    "todos":[
-        {
-            "title":"task1",
-            "responsible":"Felipe",
-            "description":"lorep ipsum",
-            "priority":"High"
-        },
-        {
-            "title":"task2",
-            "responsible":"Ana",
-            "description":"lorep ipsum",
-            "priority":"Low"
-        },
-        {
-            "title":"task3",
-            "responsible":"Bujalo",
-            "description":"lorep ipsum",
-            "priority":"Medium"
-        }
-       
-    ]
+  "todos": [
+    {
+      "title": "task1",
+      "responsible": "mark",
+      "description": "lorem impsum",
+      "priority": "low"
+    },
+    {
+      "title": "task2",
+      "responsible": "ryan",
+      "description": "lorem impsum",
+      "priority": "medium"
+    },
+    {
+      "title": "task3",
+      "responsible": "joseph",
+      "description": "lorem impsum",
+      "priority": "high"
+    }
+  ]
 }
